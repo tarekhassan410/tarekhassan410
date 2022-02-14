@@ -1,4 +1,3 @@
-### Hi there 👋
+### Hi there, I am Tarek 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tarekhassan410)](https://github.com/anuraghazra/github-readme-stats)
-
+Enthuastic frontend developer with three years of experience in different frameworks. 
